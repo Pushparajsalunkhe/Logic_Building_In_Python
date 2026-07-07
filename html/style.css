@@ -1,0 +1,37 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: azure;
+    font-weight: lighter;
+    font-size: 70px;
+    
+
+}
+h3{
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: rgb(238, 209, 138);
+    background-size: cover;
+    
+}
+h2{
+    color:blueviolet;
+    font-family: 'Courier New';
+    font-size: 30px;
+    font-weight: bold;
+    font-style: unset;
+    
+}
+ul{
+    color: black;
+
+}
+.raj{
+    background-color: aquamarine;
+    
+}
+.fot h2{
+    color: black;
+    background-color: rgb(130, 130, 215);
+}
